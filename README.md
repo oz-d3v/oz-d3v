@@ -1,73 +1,110 @@
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/107621944?v=4" width="120" alt="Osama Zaman" />
+# Hey, I'm Osama 👋
 
-# Osama Zaman
+### `> shipping in client stacks.`
 
-**Senior Full Stack Engineer** · Karachi, Pakistan
+<em>Senior full stack engineer — React, TypeScript, Node, and AI features in production.</em>
 
-Forward deployed engineer · Senior full stack · Senior frontend · Backend
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-ozd3v.vercel.app-1a1917?style=for-the-badge&logo=vercel&logoColor=white)](https://ozd3v.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-osamazaman-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/osamazaman)
+[![Email](https://img.shields.io/badge/✉️_Email-osamazaman@outlook.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:osamazaman@outlook.com)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-ozd3v.vercel.app-7c3aed?style=for-the-badge)](https://ozd3v.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-osamazaman-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/osamazaman)
-[![Email](https://img.shields.io/badge/Email-outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:osamazaman@outlook.com)
+<br/>
+
+<em>Forward-deployed on **Emplifi Unified Analytics** — boards, Widget AI Insights, multi-model LLM evals.</em>
+<em>Also built ops dashboards, watch verification, travel checkout flows, and campaign tooling.</em>
 
 </div>
 
-Senior full stack engineer with 6 years building production web applications, internal tools, and AI products. I integrate quickly into client teams, work in their tech stack and in-house products, and deliver agreed solutions with their product and engineering stakeholders.
+---
 
-I work with **React, Next.js, Angular, TypeScript, Node.js, NestJS, Python, FastAPI, and PostgreSQL**.
+## ⚡ What I Do
+
+```js
+const oz = {
+  role: "Senior Full Stack Engineer @ Xynotech (client: Emplifi)",
+  location: "Karachi, Pakistan",
+  education: "BSc Computer Science — DHA Suffa University",
+  focus: ["React", "TypeScript", "Node.js", "PostgreSQL", "LLM product features"],
+  philosophy: "Embed with the team → Ship in their stack → Own it in prod",
+  available: true,
+};
+```
+
+---
+
+## 🛠️ Tech Stack
 
 <div align="center">
 
-[![Stack](https://skillicons.dev/icons?i=react,nextjs,angular,ts,js,nodejs,nestjs,express,py,fastapi,postgres,docker,aws,githubactions,jest,git&perline=8)](https://skillicons.dev)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-FF6B35?style=flat-square&logo=anthropic&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
+![Mixpanel](https://img.shields.io/badge/Mixpanel-7856FF?style=flat-square&logo=mixpanel&logoColor=white)
+![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white)
 
 </div>
 
-## Experience
+---
 
-### Senior Software Engineer · Xynotech Ltd
-**Dec 2022 – Present** · Karachi
+## 🎯 Focus Areas
 
-**Emplifi Unified Analytics** · forward deployed  
-Joined their boards product and worked with their product and engineering stakeholders. Migrated boards, created widgets, and shipped Widget AI Insights: a React and TypeScript panel that sends widget data to an OpenAI insights API and renders observation, analysis, and suggestions, with generate, regenerate, copy, and Mixpanel. Built a multi-model eval that compared quality, token usage, and spend.  
-`React` `TypeScript` `Node.js` `PostgreSQL` `OpenAI` `Mixpanel` `Maratonec`
+```
+▸ Product engineering     → React, TypeScript, Next.js, component architecture, Storybook
+▸ Full stack delivery     → NestJS, Express, FastAPI, PostgreSQL, REST, WebSockets
+▸ AI in the UI            → OpenAI insights panels, LLM eval harnesses, vision + doc checks
+▸ Client / FDE work       → Emplifi boards, stakeholder delivery, Mixpanel, production ops
+▸ Cloud & tooling         → AWS (S3, SES, SNS, CloudWatch), Docker Compose, GitHub Actions
+▸ Quality & analytics     → Jest, Sentry, Mixpanel, ESLint, CI pipelines
+```
 
-**Sniffinity**  
-Built the operations product end to end and delivered the MVP in 3 months, from the database design to the APIs. The café was busy, so the target was a shorter dog check-in. Staff use the chat to register a new member and check a dog in.  
-`React` `TypeScript` `Python` `FastAPI` `PostgreSQL` `SQLAlchemy`
+---
 
-**CRNO**  
-Led the team that built the portal and set up Super Admin, Admin, Law Enforcement, Collector, Insurer, and Retailer. After the security audit, reworked the build so it stayed compliant for law enforcement agencies. Watch verification uses OpenAI and Google Vision.  
-`Angular` `NestJS` `Node.js` `OpenAI` `Google Vision`
-
-**GoInstore**  
-Built the Angular controls for live commerce: OBS broadcasts, live events, chat and call settings, group calls, screen sharing, HD video, advisor mapping, and performance dashboards.  
-`Angular` `Mixpanel` `Gainsight`
-
-### Frontend Engineer · Sastaticket
-**Jun 2022 – Oct 2022**
-
-Revamped [sastaticket.pk](https://www.sastaticket.pk/) and shipped frontend flows for luggage weight, seat selection, meals, passport-date detection, and promotions.  
-`Next.js` `React` `Node.js`
-
-### Full Stack Developer · The Talent Games
-**Oct 2020 – Jun 2022** · Karachi
-
-Designed an internal Custom JSON Designer so non-technical staff could author complex configs, cutting operation time by 70%. Built campaign and reporting portals from scratch: overviews, Chart.js analytics, candidate comparison, shortlisting, SendGrid mass email, and a leaderboard.  
-`React` `Next.js` `Node.js` `Express` `PostgreSQL` `Socket.IO` `Phaser.js` `AWS`
-
-### Zappit
-Migrated a slow, buggy admin panel to React.js. Built custom flows that auto-generate landing pages for coupon redemption, so non-technical teammates can publish one without waiting on a developer.  
-`React` `Node.js` · [zappit.co](https://zappit.co/)
-
-## Education
-
-**Bachelor of Computer Science** · DHA Suffa University  
-Aug 2016 – Aug 2020 · Karachi
+## 📊 GitHub Stats
 
 <div align="center">
 
-Selected work lives on the [portfolio](https://ozd3v.vercel.app/project).
+![Osama's GitHub stats](https://www.gitskins.com/api/section/stats?username=oz-d3v&theme=github-dark&mode=dark)
+
+![Top Languages](https://www.gitskins.com/api/section/stack?username=oz-d3v&theme=github-dark&mode=dark)
 
 </div>
+
+---
+
+## 📫 Let's Connect
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-ozd3v.vercel.app-1a1917?style=for-the-badge&logo=vercel&logoColor=white)](https://ozd3v.vercel.app)
+[![GitHub](https://img.shields.io/badge/🐙_GitHub-oz--d3v-1a1917?style=for-the-badge&logo=github&logoColor=white)](https://github.com/oz-d3v)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-osamazaman-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/osamazaman)
+[![Email](https://img.shields.io/badge/✉️_Email-osamazaman@outlook.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:osamazaman@outlook.com)
+
+</div>
+
+---
+
+<div align="center">
+
+<em>Open to chatting about React, analytics products, or AI features in real apps — reach out via email or LinkedIn.</em>
+
+</div>
+
+<p align="center"><sub>Osama Zaman · <a href="https://www.gitskins.com/readme-generator?template=community-sachit-9ki0">Sachit</a> template by <a href="https://www.gitskins.com/creators/sachit1751-art">@sachit1751-art</a> · generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
